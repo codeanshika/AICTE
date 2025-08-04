@@ -4,7 +4,7 @@ https://colab.research.google.com/drive/19hthQvli9uLwF6a9QEjw2Xx4z-OnTkN1#scroll
 
 DATASET - https://drive.google.com/file/d/1ARwZOnkWFOw5OuHNROeABADJG7LqVz2I/view?usp=drive_link
 
-PROJECT CODE - anshika_final_project_code_aicte.ipynb
+PROJECT CODE -  anshika_final_project_code_aicte.ipynb
 
 # 🌿 Tree Species Classification Using Deep Learning
 

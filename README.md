@@ -2,6 +2,8 @@
 Tree Species Classification 
 https://colab.research.google.com/drive/19hthQvli9uLwF6a9QEjw2Xx4z-OnTkN1#scrollTo=_p-YVdcGPZac
 
+DATASET - https://drive.google.com/file/d/1ARwZOnkWFOw5OuHNROeABADJG7LqVz2I/view?usp=drive_link
+
 # 🌿 Tree Species Classification Using Deep Learning
 
 This project was developed as part of the **Shell–Edunet Skills4Future AICTE-Approved Internship** (July–August 2025), under the theme **"Green Skills using AI Technologies"**. It focuses on building an automated system to classify tree species from image data using Convolutional Neural Networks (CNNs).
